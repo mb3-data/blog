@@ -3,6 +3,8 @@ title: "The Pinewood Derby"
 date: 2025-04-05
 ---
 
+![image](https://gist.github.com/user-attachments/assets/12607cb4-c26a-4e1d-bc3e-87ea8cc935de)
+
 Today was Race Day.
 
 I did not realize that the girl scouts have a Pinewood Derby Competition. I realize it, now. Most of the participants are generally, and genuinely happy to see their cars roll down the track. Some were dissappointed with the results. It is the most wholesome and fun, environment and experience for these kids.
@@ -11,13 +13,15 @@ A search of the internet yields some top 2 results: Dr. Action with Ball Aerospa
 
 Except, for some reason, this is not the baseline. Those who are curious and have assumptions that someone has figured this thing out before are rewarded with the information on how to have a chance in the competition and make things close. Some could hide or conventiently not share the learned tricks that are freely available to all to get ahead of the competition, but it may feel a little bit like cheating. At the very least, total domination feels a little bit hollow. Those who knew in the competition were certain to (and did) dominate those who did not know. It is not even close.
 
-We must train kids to do research on how best to compete with one another. Not for the sake of beating them, but for the sake of raising the productivity of all of them. Yes, this is just a pinewood competition for girls between the ages of 7-13, but this is also an opportunity to introduce them to a way of thinking that honors the built up knowledge of those humans who have come before us. It applies to agriculture, engineering, coding, and every other important aspect of society and human ingenuity. We must train kids to use the entirety of their brain, the human collective brain and the very best of the tools available to maximize human acheivement. We must teach them to network with one another and share this knowledge so that they do not get crushed by competition, and so they are confident in their ability to compete. That if something were to not go their way - they used every resource and every bit of advantage they could possibly squeeze out. What if one of them, after using all of the techniques known finds a new way to dominate the competition consistently? That's true advancement. For the individual and for the whole and for everyone after them.
+We must train kids to do research on how best to compete with one another. Not for the sake of beating them, but for the sake of raising the productivity of all of them. Yes, this is just a pinewood competition for girls between the ages of 7-13, but this is also an opportunity to introduce them to a way of thinking that honors the built up knowledge of those humans who have come before us. It applies to agriculture, engineering, coding, ship building, welding, pipe fitting and every other important aspect of society and human ingenuity. We must train kids to use the entirety of their brain, the human collective brain and the very best of the tools available to maximize human acheivement. We must teach them to network with one another and share this knowledge so that they do not get crushed by competition, and so they are confident in their ability to compete. If something were to not go their way - they used every resource and every bit of advantage they could possibly squeeze out. What if one of them, after using all of the techniques known finds a new way to dominate the competition consistently? That's true advancement. For the individual and for the whole and for everyone after them.
 
-These are the 7 Key Steps:
+These are the 7 Key Steps to competing in Pinewood Derby:
 1.  Center of Mass slightly in front of rear axle
-2.  Wind Resistance
+2.  Reduce Wind Resistance
 3.  Run on 3 wheels
 4.  Light-weight wheels
 5.  Nail prep, polish and bending
 6.  Railride/alignment
 7.  Graphite
+
+Happy Racing!
