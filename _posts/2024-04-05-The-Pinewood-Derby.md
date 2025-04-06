@@ -9,7 +9,7 @@ date: 2025-04-05
 
 Today was Race Day.
 
-I did not realize that the girl scouts have a Pinewood Derby Competition. I realize it, now. Most of the participants are generally, and genuinely happy to see their cars roll down the track. Some were disappointed with the results. It is the most wholesome and fun, environment and experience for these kids.
+I did not realize that the girl scouts have a Pinewood Derby Competition. I realize it, now. Most of the participants are generally, and genuinely happy to see their cars roll down the track. Some were disappointed with the results. It is a wholesome fun environment and experience for these kids.
 
 A search of the internet yields some top 2 results: Dr. Action with Ball Aerospace created an entire [site dedicated to pinewood derby tricks](https://pinewoodphysics.com/index.html). Mark Rober made a [YouTube video](https://www.youtube.com/watch?v=-RjJtO51ykY) on how to increase the chances of winning by using some techniques to even the playing field. You do not have to have a phd like Dr. Action, or be a former Nasa engineer like Mark Rober to gather freely available information from the internet and learn from them. My baseline assumption going into competitions like this is that all other contestants are aware of all of the tricks as well. And why wouldn't they be? In 10 minutes of watching a video to get 7 tips to improving your cars performance in approximately 45 minutes of building a pinewood derby car, almost anyone with a little bit of DIY can compete at the top of the game. From this point - it is up to chance, or very subtle details that may improve performance from one car to another. At the very least, it makes rolling them down the track a more exciting spectator sport.
 
