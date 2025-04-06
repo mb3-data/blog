@@ -3,7 +3,9 @@ title: "The Pinewood Derby"
 date: 2025-04-05
 ---
 
-![image](https://gist.github.com/user-attachments/assets/12607cb4-c26a-4e1d-bc3e-87ea8cc935de)
+![image]([https://gist.github.com/user-attachments/assets/12607cb4-c26a-4e1d-bc3e-87ea8cc935de](https://private-user-images.githubusercontent.com/140737697/430675607-12607cb4-c26a-4e1d-bc3e-87ea8cc935de.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM5MTA3OTMsIm5iZiI6MTc0MzkxMDQ5MywicGF0aCI6Ii8xNDA3Mzc2OTcvNDMwNjc1NjA3LTEyNjA3Y2I0LWMyNmEtNGUxZC1iYzNlLTg3ZWE4Y2M5MzVkZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNlQwMzM0NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NjA2M2JkMTUxM2U1MDUyN2U4NTEzNzRmY2VmNTBiNGQyNTA5NTJhMWQ1MmEzNDBiZThjMDFiZjIzOTZkYTNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2OwmnFYUR1h891AOo2ERxndlT8h1XMJlIP1D7Xuac8c)
+
+
 
 Today was Race Day.
 
