@@ -5,7 +5,7 @@ date: 2025-04-08
 
 My studies in school were in supply chain. I have spent almost 20 years working at manufacturing companies engineering robust "self healing" supply chains. 
 
-What's our demand forecast? How many expensive widgets do we need to buy? Where should we place which widgets throughout the world? Should we repair these widgets or hold them? Fill rate driven or system availability driven? What is the probability risk of stock out? Given our delivery schedules of these parts, which one is most likely to be the highest problem? Should we upgrade parts to stay spared for a specific configuartion or not?
+What's our demand forecast? How many expensive widgets do we need to buy? Where should we place which widgets throughout the world? Should we repair these widgets or hold them? Fill rate driven or system availability driven? What is the probability risk of stock out? Given our delivery schedules of these parts, which one is most likely to be the highest problem? Should we upgrade parts to stay spared for a specific configuration or not?
 
 The problems were on a large scale. It's exciting work. Many thousands of widgets. Many hundreds of suppliers. Many dollar implications. Many people to contribute.
 
