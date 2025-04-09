@@ -15,9 +15,10 @@ I have relied on Python heavily. Pandas was/is my friend for smashing together s
 
 I have programmed data pipelines, stored data, managed databases, cleaned data, written models, run models, analyzed models, interpreted models, written simulations, done causal based forecasting, time series forecasting, regression analyses, visualized data and generally communicated detailed products of large scale enterprise level data for a long time. I am a fish in a data lake of supply chain data. 
 
-I have crashed anaytics platforms that couldnt handle the volume of data. Python has had an answer to all of it.
+I have crashed anaytics platforms that couldn't handle the volume of data. Python has had an answer to all of it.
 
-I have typically worked in teams of 3-7 people.
+I have typically worked in teams of 3-7 people. Very close to executive teams. Frequently in contract negotiation.
+
 In all of these instances, we always aimed for robust solutions that could withstand disruption and minimized the need for IT organizations to get involved. We needed to move quickly to answer questions. We measured for it. Ran what-if scenarios, simulations, and prepared to be ready.
 
 Supply chains are complex systems in a complex world. Sometimes we add complexity with monolithic processes and procedures and software packages. We add expensive tools to perform low-code, self-service "analytics". We split work into smaller chunks in the process and have a "data team", a "sql team" and an "analytics team" maybe a business analyst to document requirements. Let's add in a ticketing system as well to capture all the work. some of it hits the mark. Some just isn't the level of detail we need.
